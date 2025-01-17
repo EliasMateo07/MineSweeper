@@ -1,2 +1,2 @@
 # MineSweeper 
-Minesweeper game with difficulty dropdown!
+Minesweeper game with difficulty dropdown, timer, and pause button!
